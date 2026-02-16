@@ -64,7 +64,3 @@ sudo apt-get install python3-tk
 - SNAKE_Igor_Kocik.py — Task 4.2 (Snake + search)
 - one_neuron.py — Task 4.3 (Single neuron GUI)
 - shallow_neural_network.py — Task 4.4 (Shallow NN + MNIST Streamlit app)
-
-## Authors
-- <Colleague Name> — <GitHub/LinkedIn>
-- <Your Name> — <GitHub/LinkedIn> (if applicable)
